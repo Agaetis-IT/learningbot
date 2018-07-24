@@ -1,0 +1,1 @@
+TestingPhase has two folders which contains images and a program named Monobloc_detector which will print images from those folders with a prediction using our model
